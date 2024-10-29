@@ -7,6 +7,5 @@ createRoot(document.getElementById('root')!).render(
  
    <BrowserRouter basename="/GymFit">
    <App />
- </BrowserRouter>
- 
+ </BrowserRouter>,
 )
